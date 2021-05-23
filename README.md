@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![alt text](images/header.png "chocksaway")
+
+
 
 <!--
 **chocksaway/chocksaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
