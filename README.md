@@ -1,19 +1,18 @@
 
 ![alt text](images/header.png "chocksaway")
+**Pragmatic Software Engineer and Trainer**
 
+RESTful API development,  implementing micro-services using Java 9/11, Ubuntu Linux, and Docker.
 
+Automation and DevOps advocate *(you don't want to throw it to Ops, unless it's documented).*
 
-<!--
-**chocksaway/chocksaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My current side-project is developing an Art website for my father.  Intuitive, which will "generate" a static site.  With full infrastructure automation.
+- 🌱 I’m currently learning The Go Programming Language.
+- 💬 Ask me about Cycling, Hector the camper, *and stuff which just works*.
+- 📫 How to reach me - milesd@chocksaway.com
 
-Here are some ideas to get you started:
+[milesdavenport.com](https://milesdavenport.com "Miles Davenport")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[chocksaway.com](https://chocksaway.com "chocksaway")
+
+[klartraining.com](https://klartraining.com "klartraining")
