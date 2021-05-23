@@ -1,5 +1,6 @@
 
 ![alt text](images/header.png "chocksaway")
+
 **Pragmatic Software Engineer and Trainer**
 
 RESTful API development,  implementing micro-services using Java 9/11, Ubuntu Linux, and Docker.
