@@ -5,7 +5,7 @@
 
 RESTful API development,  implementing micro-services using Java 9/11, Ubuntu Linux, and Docker.
 
-Automation and DevOps advocate *(you don't want to throw it to Ops, unless it's documented).*
+Automation and DevOps advocate *(you don't want to throw it to Ops, unless it's documented, they will pass it gracefully back).*
 
 - 🔭 My current side-project is developing an Art website for my father.  Intuitive, which will "generate" a static site.  With full infrastructure automation.
 - 🌱 I’m currently learning The Go Programming Language.
