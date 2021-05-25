@@ -11,7 +11,7 @@ Love "Getting Started" demos and tutorials, which are running in thirty minutes 
 
 - 🔭 My current side-project is developing an Art website for my father.  Intuitive, which will "generate" a static site.  With full infrastructure automation.
 - 🌱 I’m currently learning The Go Programming Language.
-- 🌱 Love Lucene, and RabbitMQ.   
+- 🌱 (Continue to respect) Lucene, and RabbitMQ.   
 - 💬 Ask me about **C**ycling, **Hector** the camper, **P**hotography, *and stuff which just works*.
 - 📫 milesd@chocksaway.com
 
