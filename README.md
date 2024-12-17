@@ -20,6 +20,3 @@ Love "Getting Started" demos and tutorials, which are running in thirty minutes 
 [chocksaway.com](https://chocksaway.com "chocksaway")
 
 [klartraining.com](https://klartraining.com "klartraining")
-
-![lejog](images/lejog.png "chocksaway")
-![camper van parking only](images/camper.png "chocksaway")
