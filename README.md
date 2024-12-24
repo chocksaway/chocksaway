@@ -3,7 +3,7 @@
 
 **Pragmatic Software Engineer and Trainer**
 
-RESTful API development,  implementing micro-services using Java 9/11, Ubuntu Linux, and Docker.
+RESTful API development,  implementing micro-services using Java 11+, Ubuntu Linux, and Docker.
 
 Automation and DevOps advocate *(you don't want to pass it to Ops, unless it's documented, they will pass it gracefully back).*
 
