@@ -3,7 +3,7 @@
 
 **Pragmatic Software Engineer and Trainer**
 
-RESTful API development,  implementing micro-services using Java 17+, Ubuntu Linux, and Docker.
+RESTful API development, implementing micro-services using Spring Boot (Java 17+) and Python (FastApi), Ubuntu Linux, and Docker.
 
 Automation and DevOps advocate *(you don't want to pass it to Ops, unless it's documented, they will pass it gracefully back).*
 
