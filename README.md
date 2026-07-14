@@ -26,8 +26,6 @@ Love "Getting Started" demos and tutorials, which are running in thirty minutes 
 - 💬 Ask me about **C**ycling, **Hector** the camper, **P**hotography, *and stuff which just works*.
 - 📫 milesd@chocksaway.com
 
-[milesdavenport.com](https://milesdavenport.com "Miles Davenport")
-
 [chocksaway.com](https://chocksaway.com "chocksaway")
 
 [klartraining.com](https://klartraining.com "klartraining")
