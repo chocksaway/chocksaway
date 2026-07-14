@@ -4,16 +4,16 @@
 **Pragmatic Software Engineer and Trainer**
 
 **Profile**
-Senior backend engineer with 30+ years delivering resilient, scalable systems for high‑traffic services. 
-Strong focus on Java (Spring Boot, WebFlux, Dropwizard) and Python (FastAPI), API design, event-driven architectures, and cloud/DevOps (AWS, Terraform). 
-Track record of improving reliability, reducing latency and operational cost, and shipping secure production services.
++ Senior backend engineer with 30+ years delivering resilient, scalable systems for high‑traffic services. 
++ Strong focus on Java (Spring Boot, WebFlux, Dropwizard) and Python (FastAPI), API design, event-driven architectures, and cloud/DevOps (AWS, Terraform). 
++ Track record of improving reliability, reducing latency and operational cost, and shipping secure production services.
 
 **Core Skills**
-• Languages: Java 8–21 (Spring Boot, WebFlux, Dropwizard); Python 3 (FastAPI, AWS Lambda)
-• Frameworks and Libraries: Spring Boot, WebFlux, Dropwizard, Reactor, FastAPI
-• Cloud and Infrastructure: AWS (Lambda, S3, IAM), Terraform, Docker, CI/CD, Airflow
-• Data and Messaging: Postgres, MongoDB, Redis, RabbitMQ, MinIO, streaming integrations
-• Systems and Practices: REST/gRPC APIs, event-driven messaging, async/reactive systems, ETL pipelines, production debugging (Linux), observability, security champion, multi-tenancy, performance tuning
++ Languages: Java 8–21 (Spring Boot, WebFlux, Dropwizard); Python 3 (FastAPI, AWS Lambda)
++ Frameworks and Libraries: Spring Boot, WebFlux, Dropwizard, Reactor, FastAPI
++ Cloud and Infrastructure: AWS (Lambda, S3, IAM), Terraform, Docker, CI/CD, Airflow
++ Data and Messaging: Postgres, MongoDB, Redis, RabbitMQ, MinIO, streaming integrations
++ Systems and Practices: REST/gRPC APIs, event-driven messaging, async/reactive systems, ETL pipelines, production debugging (Linux), observability, security champion, multi-tenancy, performance tuning
 
 
 Automation and DevOps advocate *(you don't want to pass it to Ops, unless it's documented, they will pass it gracefully back).*
