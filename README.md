@@ -1,7 +1,7 @@
 
 ![alt text](images/header.png "chocksaway")
 
-**Pragmatic Software Engineer and Trainer**
+**Miles Davenport - Pragmatic Software Engineer and Trainer**
 
 **Profile**
 + Senior backend engineer with 30+ years delivering resilient, scalable systems for high‑traffic services. 
