@@ -27,5 +27,3 @@ Love "Getting Started" demos and tutorials, which are running in thirty minutes 
 - 📫 milesd@chocksaway.com
 
 [chocksaway.com](https://chocksaway.com "chocksaway")
-
-[klartraining.com](https://klartraining.com "klartraining")
